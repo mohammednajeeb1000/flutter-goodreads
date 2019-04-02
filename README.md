@@ -23,9 +23,15 @@ Julien Louage on May 21, 2018*
   - https://medium.com/flutter-community/flutter-building-a-listview-in-flutter-3ea0c56dd496 *by Ayusch Jain on Nov 6, 2018*
 
 #### IV. Software Architecture
-
 - **Comparisons**
   - https://www.reddit.com/r/FlutterDev/comments/9y8nxb/mvvm_vs_bloc/
   
 - **BLoC Pattern**
   - https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1 *by Sagar Suri on Aug 26, 2018*
+- **MVVM**
+  - https://quickbirdstudios.com/blog/mvvm-in-flutter *by Julian Bissekkou on June 12, 2018* 
+
+#### V. Tutorials
+- **Beautiful UI**
+  - https://medium.com/@afegbua/this-is-the-second-part-of-the-beautiful-list-ui-and-detail-page-article-ecb43e203915 *by Shuaib Afegbua on Dec 6, 2018*
+  - https://proandroiddev.com/flutter-thursday-02-beautiful-list-ui-and-detail-page-a9245f5ceaf0 *by Shuaib Afegbua Jul 27, 2018*
